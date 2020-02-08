@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Report a bug with the modpack
-title: ''
+title: "[BUG]"
 labels: bug
 assignees: Saphrym
 
