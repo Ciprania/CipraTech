@@ -1,8 +1,8 @@
 
 #Configuration for Pretty Beaches
 [common]
-	#List of blocks that should be affected by the adjusted water physics.
-	affectedBlocks = ["minecraft:sand"]
 	#Whether the flooding of adjacent air blocks should be animated or instant.
 	animatedFlooding = true
+	#List of blocks that should be affected by the adjusted water physics.
+	affectedBlocks = ["minecraft:sand"]
 
