@@ -1,0 +1,46 @@
+#Chance to drop ghast tear fragment from Nether Quartz block with Hand Pick
+#Range: 0.0 ~ 1.0
+ghast_tear_fragment_chance = 0.2
+#Chance to drop spider eye from Jungle Leaves with Hand Trimmer
+#Range: 0.0 ~ 1.0
+spider_eye_chance = 0.1
+#Chance to drop bone fragment from Gravel with Hand Tiller
+#Range: 0.0 ~ 1.0
+bone_fragment_chance = 0.2
+#Chance to drop apple from Oak Leaves with Hand Trimmer
+#Range: 0.0 ~ 1.0
+apple_chance = 0.25
+#Chance to drop sulfur from Netherrack with Hand Pick
+#Range: 0.0 ~ 1.0
+sulfur_chance = 0.1
+#Chance to drop small pile of blaze powder from Magma block with Hand Pick
+#Range: 0.0 ~ 1.0
+small_blaze_chance = 0.1
+#Chance to drop prismarine shard from Kelp Plant with Hand Trimmer
+#Range: 0.0 ~ 1.0
+prismarine_shard_chance = 0.05
+#Chance to drop prismarine crystal from Tall Seagrass with Hand Trimmer
+#Range: 0.0 ~ 1.0
+prismarine_crystal_chance = 0.05
+#Chance to drop rabbit foot from Acacia Leaves with Hand Trimmer
+#Range: 0.0 ~ 1.0
+rabbit_chance = 0.05
+#Chance to drop nether star fragment from End Stone with Hand Pick
+#Range: 0.0 ~ 1.0
+nether_star_fragment_chance = 0.15
+#Chance to drop feathers from Spruce Leaves with Hand Trimmer
+#Range: 0.0 ~ 1.0
+feather_chance = 0.15
+#Chance to drop string from Birch Leaves with Hand Trimmer
+#Range: 0.0 ~ 1.0
+string_chance = 0.15
+#Chance to drop ink sac from Clay with Hand Tiller
+#Range: 0.0 ~ 1.0
+ink_sac_chance = 0.2
+#Chance to drop saltpeter from Sandstone with Hand Pick
+#Range: 0.0 ~ 1.0
+saltpeter_chance = 0.2
+#Chance to drop pearl fragment from Dark Oak Leaves with Hand Trimmer
+#Range: 0.0 ~ 1.0
+pearl_fragment_chance = 0.1
+
