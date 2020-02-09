@@ -22,6 +22,6 @@ Mayor of Ciprania
 
 After you finish reading the letter, you decide that the red button is _not_ something you want to push. But then your cat gets on your shoulder and paws at the fascinating circuit board in your hand. You suddenly appear in a very blocky world with fancy music playing from the sky and a tree in front of you begging you to punch it.
 
-Don't worry. Your cat is safe back at home still pawing at the cirtcuit board until it ends up under the refrgierator with that candy wrapper from 1998.
+Don't worry. Your cat is safe back at home still pawing at the circuit board until it ends up under the refrgierator with that candy wrapper from 1998.
 
 [![Akliz](http://saphrym.com/images/cipratech/akliz.png)](http://saph.link/akliz)
