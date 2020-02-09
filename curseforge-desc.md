@@ -1,6 +1,6 @@
 ![](http://saphrym.com/images/cipratech/CipraTechBanner.jpg)
 
-The following letter arrives in an enevelope under your door:
+The following letter arrives in an envelope under your door:
 
 INSERT LETTER HERE
 
