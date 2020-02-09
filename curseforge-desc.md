@@ -1,6 +1,6 @@
 ![](http://saphrym.com/images/cipratech/CipraTechBanner.jpg)
 
-The following letter arrives in an envelope under your door:
+While playing pickup sticks with your cat, an enevelope slides under the door nearest to you. No. Not that door. The other door. To the left. Yes. That's the door. When you open the envelope, you find the following letter:
 
 ![](http://saphrym.com/images/cipratech/letterhead.jpg)
 
