@@ -1,5 +1,5 @@
 ---
-name: Mod request
+name: Mod Request
 about: Suggest a mod to include in the modpack
 title: "[MOD]"
 labels: mod requests
