@@ -14,4 +14,6 @@ C.E.O. of Cipratech
 
 Mayor of Ciprania
 
+![](http://saphrym.com/images/cipratech/Line.png)
+
 [![Akliz](http://saphrym.com/images/cipratech/akliz.png)](http://saph.link/akliz)
