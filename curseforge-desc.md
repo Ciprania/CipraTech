@@ -4,6 +4,10 @@ The following letter arrives in an envelope under your door:
 
 ![](http://saphrym.com/images/cipratech/letterhead.jpg)
 
+To Whom It May Concern,
+
+We at CipraTech congratulate on formulating the idea that it was necessary to purchase this CipraTech branded Virtual Voxel World.
+
 Sincerely,
 
 ![](http://saphrym.com/images/cipratech/CarlMunchbergSig.png)
