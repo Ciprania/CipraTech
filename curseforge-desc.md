@@ -6,7 +6,7 @@ The following letter arrives in an envelope under your door:
 
 To Whom It May Concern,
 
-We at CipraTech congratulate on formulating the idea that it was necessary to purchase this CipraTech branded Virtual Voxel World.
+We at CipraTech congratulate you on formulating the idea that it was necessary to purchase this CipraTech branded Virtual Voxel World.
 
 Sincerely,
 
