@@ -2,7 +2,7 @@
 
 The following letter arrives in an envelope under your door:
 
-![](http://saphrym.com/images/cipratech/letterhead.png)
+![](http://saphrym.com/images/cipratech/letterhead2.png)
 
 Sincerely,
 
