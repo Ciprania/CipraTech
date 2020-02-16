@@ -1,0 +1,138 @@
+
+#Enable or disable certain hats. Disabled hats will not be craftable.
+["Accesibility Config"]
+	#Whether or not Halo should be enabled.
+	haloEnabled = true
+	#Whether or not Chopping Hat should be enabled.
+	choppingHatEnabled = true
+	#Whether or not Aquanaut Helmet should be enabled.
+	aquanautHelmetEnabled = true
+	#Whether or not Straw Hat should be enabled.
+	strawHatEnabled = true
+	#Whether or not Mining Hat should be enabled.
+	miningHatEnabled = true
+	#Whether or not Postman Hat should be enabled.
+	postmanHatEnabled = true
+	#Whether or not Lucky Hat should be enabled.
+	luckyHatEnabled = true
+	#Whether or not Wing Helmet should be enabled.
+	wingHelmetEnabled = true
+	#Whether or not Stocking Cap should be enabled.
+	stockingCapEnabled = true
+
+#Various options that affect individual hats.
+["Balance Options"]
+
+	["Balance Options"."Lucky Hat"]
+		#Whether or not damaging of Lucky Hat should be enabled.
+		luckyHatDamageEnabled = true
+		#Whether or not Hunger effect of Lucky Hat should be enabled while running.
+		luckyHatUnluckEnabled = true
+
+	["Balance Options"."Chopping Hat"]
+		#Chopping Hat speed increase with Efficiency II.
+		#Range: 0.0 ~ 2.0
+		choppingHatSpeedWithEfficiency2 = 0.6
+		#Chopping Hat speed increase with Efficiency I.
+		#Range: 0.0 ~ 1.0
+		choppingHatSpeedWithEfficiency1 = 0.4
+		#Chopping Hat speed increase without Efficiency enchantment.
+		#Range: 0.0 ~ 1.0
+		choppingHatSpeedWithEfficiency0 = 0.2
+		#Chopping Hat speed increase with Efficiency V.
+		#Range: 0.0 ~ 5.0
+		choppingHatSpeedWithEfficiency5 = 1.5
+		#Whether or not damaging of Chopping Hat should be enabled.
+		choppingHatDamageEnabled = true
+		#Chopping Hat speed increase with Efficiency IV.
+		#Range: 0.0 ~ 4.0
+		choppingHatSpeedWithEfficiency4 = 1.0
+		#Chopping Hat speed increase with Efficiency III.
+		#Range: 0.0 ~ 3.0
+		choppingHatSpeedWithEfficiency3 = 0.8
+
+	["Balance Options"."Mining Hat"]
+		#Mining Hat speed increase with Efficiency V.
+		#Range: 0.0 ~ 5.0
+		miningHatSpeedWithEfficiency5 = 1.5
+		#Mining Hat speed increase with Efficiency IV.
+		#Range: 0.0 ~ 4.0
+		miningHatSpeedWithEfficiency4 = 1.0
+		#Mining Hat speed increase with Efficiency III.
+		#Range: 0.0 ~ 3.0
+		miningHatSpeedWithEfficiency3 = 0.8
+		#Whether or not damaging of Mining Hat should be enabled.
+		miningHatDamageEnabled = true
+		#Whether or not Night Vision effect of Mining Hat should be enabled in dark areas.
+		miningHatNightVisionEnabled = true
+		#Mining Hat speed increase with Efficiency II.
+		#Range: 0.0 ~ 2.0
+		miningHatSpeedWithEfficiency2 = 0.6
+		#Mining Hat speed increase with Efficiency I.
+		#Range: 0.0 ~ 1.0
+		miningHatSpeedWithEfficiency1 = 0.4
+		#Mining Hat speed increase without Efficiency enchantment.
+		#Range: 0.0 ~ 1.0
+		miningHatSpeedWithEfficiency0 = 0.2
+
+	["Balance Options"."Straw Hat"]
+		#Straw Hat speed increase with Efficiency II.
+		#Range: 0.0 ~ 2.0
+		strawHatSpeedWithEfficiency2 = 0.6
+		#Straw Hat speed increase with Efficiency III.
+		#Range: 0.0 ~ 3.0
+		strawHatSpeedWithEfficiency3 = 0.8
+		#Straw Hat speed increase with Efficiency IV.
+		#Range: 0.0 ~ 4.0
+		strawHatSpeedWithEfficiency4 = 1.0
+		#Straw Hat speed increase with Efficiency V.
+		#Range: 0.0 ~ 5.0
+		strawHatSpeedWithEfficiency5 = 1.5
+		#Whether or not damaging of Straw Hat should be enabled.
+		strawHatDamageEnabled = true
+		#Straw Hat speed increase without Efficiency enchantment.
+		#Range: 0.0 ~ 1.0
+		strawHatSpeedWithEfficiency0 = 0.2
+		#Straw Hat speed increase with Efficiency I.
+		#Range: 0.0 ~ 1.0
+		strawHatSpeedWithEfficiency1 = 0.4
+
+	["Balance Options"."Aquanaut Helmet"]
+		#Aquanaut Helmet effect time of Conduit Power with Respiration II. (in seconds)
+		#Range: 10 ~ 240
+		aquanautHelmetEffectTimeWithRespiration2 = 180
+		#Aquanaut Helmet effect time of Conduit Power with Respiration I. (in seconds)
+		#Range: 10 ~ 180
+		aquanautHelmetEffectTimeWithRespiration1 = 120
+		#Aquanaut Helmet effect time of Conduit Power with Respiration III. (in seconds)
+		#Range: 10 ~ 300
+		aquanautHelmetEffectTimeWithRespiration3 = 240
+		#Aquanaut Helmet effect time of Conduit Power without Respiration enchantment. (in seconds)
+		#Range: 10 ~ 120
+		aquanautHelmetEffectTimeWithRespiration0 = 60
+		#Whether or not damaging of Aquanaut Helmet should be enabled.
+		aquanautHelmetDamageEnabled = true
+
+	["Balance Options"."Postman Hat"]
+		#Whether or not Hunger effect of Postman Hat should be enabled while running.
+		postmanHatHungerEnabled = true
+		#Whether or not damaging of Postman Hat should be enabled.
+		postmanHatDamageEnabled = true
+
+	["Balance Options"."Stocking Cap"]
+		#Whether or not damaging of Stocking Cap should be enabled.
+		stockingCapDamageEnabled = true
+
+	["Balance Options"."Wing Helmet"]
+		#Whether or not Levitation effect of Wing Helmet should be enabled.
+		wingHelmetLevitationEnabled = true
+		#Whether or not damaging of Wing Helmet should be enabled.
+		wingHelmetDamageEnabled = true
+
+	["Balance Options".Halo]
+		#Detecting range of Halo for damage calculation. (in blocks)
+		#Range: 1 ~ 100
+		haloDetectingRange = 16
+		#Whether or not damaging of Halo should be enabled.
+		haloDamageEnabled = true
+

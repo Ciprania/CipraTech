@@ -54,12 +54,12 @@
 		[world.gen.TIN]
 			#Minimum Y-coordinate (base height) of veins
 			minHeight = 20
-			#Number of veins per chunk
-			veinCount = 8
+			#Number of veins per chunk 8
+			veinCount = 0
 			#Maximum Y-coordinate (highest level) of veins
 			maxHeight = 80
-			#Size of veins
-			veinSize = 8
+			#Size of veins8
+			veinSize = 0
 
 		[world.gen.PLATINUM]
 			#Minimum Y-coordinate (base height) of veins
@@ -74,12 +74,12 @@
 		[world.gen.COPPER]
 			#Minimum Y-coordinate (base height) of veins
 			minHeight = 40
-			#Number of veins per chunk
-			veinCount = 8
+			#Number of veins per chunk 8
+			veinCount = 0
 			#Maximum Y-coordinate (highest level) of veins
 			maxHeight = 90
-			#Size of veins
-			veinSize = 8
+			#Size of veins 8
+			veinSize = 0
 
 		[world.gen.BISMUTH]
 			#Minimum Y-coordinate (base height) of veins
@@ -124,4 +124,3 @@
 		#Lower values reduce waste, but may cause lag as the generator more frequently turns on/off.
 		#A generator with less fluid in the tank will not be able to run.
 		injectionVolume = 100
-

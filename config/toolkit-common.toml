@@ -2,7 +2,6 @@
 #ToolKit common config
 [playerEvent]
 	#if messageOnJoin is true this message will be send to the player on joining world
-	message = "§5Hello from ToolKit, this message can be change or disabled in config."
+	message = "§6Welcome to the CipraTech Vitrual Voxel World. We promise, we did not teach the cat to press the button using tuna and a button for hours the other day."
 	#Send messages to users on join?
 	message_on_join = true
-

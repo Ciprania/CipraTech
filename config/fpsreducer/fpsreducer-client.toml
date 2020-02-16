@@ -66,11 +66,11 @@
 	#Range: > -2147483648
 	centerLeft_Y = 0
 	#Range: > -2147483648
-	topRight_Y = 2
+	topRight_Y = 96
 	#Range: > -2147483648
 	centerLeft_X = 2
 	#Range: > -2147483648
-	topRight_X = -2
+	topRight_X = -3
 
 #Alignments of HUD strings.
 [hud_alignment]

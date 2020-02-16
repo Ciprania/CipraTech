@@ -65,9 +65,9 @@
 		#Range: > 0
 		cooldown = 0
 		#Range: > 1
-		limit = 3
+		limit = 15
 		#Range: > 1
-		limit_op = 5
+		limit_op = 30
 
 	[Commands.up]
 		#Enable command: /up
@@ -162,4 +162,3 @@
 	[Commands.god]
 		#Enable command: /god
 		enable = true
-

@@ -1,0 +1,8 @@
+
+[car]
+	#Range: 0.0 ~ 1.0
+	car_volume = 0.25
+	#True if the car temperature should be displayed in farenheit
+	temp_farenheit = false
+	third_person_when_enter_car = true
+
