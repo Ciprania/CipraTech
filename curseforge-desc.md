@@ -24,4 +24,8 @@ After you finish reading the letter, you decide that the red button is _not_ som
 
 Don't worry. Your cat is safe back at home still pawing at the circuit board until it ends up under the refrigerator with that candy wrapper from 1998.
 
+# OOC DISCLAIMER
+
+All of the above is fictional. Any references to CipraTech having a patent on a device created by a mod from an author is NOT true. It's a story. We do not claim the creation of the mods in this pack and are wholeheartedly thankful for the work that the mod develoeprs have put into these mods.
+
 [![Akliz](http://saphrym.com/images/cipratech/akliz.png)](http://saph.link/akliz)
