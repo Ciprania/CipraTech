@@ -26,6 +26,6 @@ Don't worry. Your cat is safe back at home still pawing at the circuit board unt
 
 # OOC DISCLAIMER
 
-All of the above is fictional. Any references to CipraTech having a patent on a device created by a mod from an author is NOT true. It's a story. We do not claim the creation of the mods in this pack and are wholeheartedly thankful for the work that the mod develoeprs have put into these mods.
+All of the above is fictional. Any references to CipraTech having a patent on a device created by a mod from an author is NOT true. It's a story. We do not claim the creation of the mods in this pack and are wholeheartedly thankful for the work that the mod developers have put into these mods.
 
 [![Akliz](http://saphrym.com/images/cipratech/akliz.png)](http://saph.link/akliz)
