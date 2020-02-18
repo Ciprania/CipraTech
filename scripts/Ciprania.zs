@@ -46,3 +46,7 @@ craftingTable.addShapeless("chest_conversion", <item:minecraft:chest>,
 //Rice Paper
 craftingTable.addShapeless("paper", <item:minecraft:paper> * 3,
 	[<item:xlfoodmod:rice>, <item:xlfoodmod:rice>, <item:xlfoodmod:rice>], null);
+
+//Campfire Torches provided by TheDarkPreacher
+campfire.addRecipe("campfire_torches", <item:minecraft:torch> * 2,
+	<item:minecraft:stick>, 1.0, 100);
