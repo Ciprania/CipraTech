@@ -20,7 +20,7 @@ Sincerely,
 
 Carl Munchberg
 
-C.E.O. of Cipratech
+C.E.O. of CipraTech
 
 Mayor of Ciprania
 
