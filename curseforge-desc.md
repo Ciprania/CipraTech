@@ -6,7 +6,7 @@ While playing pickup sticks with your cat, an envelope slides under the door nea
 
 To Whom It May Concern,
 
-We at CipraTech congratulate you on formulating the idea that it was necessary to purchase this CipraTech branded Virtual Voxel World™ (VVW). Formulating ideas can be tough, and we are proud of you for doing so on your own despite the numerous advertisements you may have seen for this Virtual Voxel World.
+We at CipraTech congratulate you on formulating the idea that it was necessary to purchase this CipraTech branded Virtual Voxel World™ (VVW). Formulating ideas can be tough, and we are proud of you for doing so on your own despite the numerous advertisements you may have seen for this VVW.
 
 When you press the red button, you will be transported into the VVW with an instruction manual for how to use your new VVW. You'll also receive a few other virtual bits and bobs. Not Bobs, but bobs. We don't sell Bobs. That would be against the law.
 
