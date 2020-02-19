@@ -1,4 +1,4 @@
-![](http://saphrym.com/images/cipratech/CipraTechBanner.jpg)
+[![Akliz](http://saphrym.com/images/cipratech/akliz.png)](http://saph.link/akliz)
 
 While playing pickup sticks with your cat, an envelope slides under the door nearest to you. No. Not that door. The other door. To the left. Yes. That's the door. When you open the envelope, you find the following letter and a very flat piece of green circuit board with a small red button on it:
 
@@ -42,6 +42,6 @@ All of the above is fictional. Any references to CipraTech having a patent on a 
 
 Speaking of the mods, we've picked out some of the best tech mods for 1.15.2: Mekanism, Industrial Foregoing, Gauges and Switches, Mr. Crayfish's Vehicle mod, and many others. We've included some quality of life mods also. And we've made sure the pack is as server friendly as possible.
 
-To report bugs with the pack or make suggestions for it, [please see the GitHub](http://saph.link/cipratech). Thank you for choosing our pack, and if you need a server to play with your friends, click below!
+To report bugs with the pack or make suggestions for it, [please see the GitHub](http://saph.link/cipratech). Thank you for choosing our pack, and if you need a server to play with your friends, click the banner at the top!
 
-[![Akliz](http://saphrym.com/images/cipratech/akliz.png)](http://saph.link/akliz)
+![](http://saphrym.com/images/cipratech/CipraTechBanner.jpg)
