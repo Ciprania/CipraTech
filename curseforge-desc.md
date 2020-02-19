@@ -36,6 +36,8 @@ It's at this very moment that you think to yourself, _"Wait... when did I get a 
 
 # OOC DISCLAIMER AND INFORMATION
 
+_**For more story about Ciprania, [see "The History of Ciprania" here](http://saphrym.com/the-history-of-ciprania/).**_
+
 All of the above is fictional. Any references to CipraTech having a patent on a device created by a mod from an author is **_not true_**. It's a story. We do not claim the creation of the mods in this pack and are wholeheartedly thankful for the work that the mod developers have put into these mods.
 
 Speaking of the mods, we've picked out some of the best tech mods for 1.15.2: Mekanism, Industrial Foregoing, Gauges and Switches, Mr. Crayfish's Vehicle mod, and many others. We've included some quality of life mods also. And we've made sure the pack is as server friendly as possible.
