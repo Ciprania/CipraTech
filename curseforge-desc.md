@@ -6,9 +6,9 @@ While playing pickup sticks with your cat, an envelope slides under the door nea
 
 To Whom It May Concern,
 
-We at CipraTech congratulate you on formulating the idea that it was necessary to purchase this CipraTech branded Virtual Voxel World™ (VVW). Formulating ideas can be tough, and we are proud of you for doing so on your own despite the numerous advertisements you may have seen for this VVW.
+We at CipraTech congratulate you on formulating the idea that it was necessary to purchase this CipraTech branded Virtual Voxel World™ (VVW). Formulating ideas can be tough, and we are proud of you for doing so on your own despite the numerous advertisements you may have seen for this VVW™.
 
-When you press the red button, you will be transported into the VVW with an instruction manual for how to use your new VVW. You'll also receive a few other virtual bits and bobs. Not Bobs, but bobs. We don't sell Bobs. That would be against the law.
+When you press the red button, you will be transported into the VVW™ with an instruction manual for how to use your new VVW™. You'll also receive a few other virtual bits and bobs. Not Bobs, but bobs. We don't sell Bobs. That would be against the law.
 
 Within this world, you will be able to collect resources and craft multiple CipraTech patented machines and tools. Some of those include solar generators, teleporters, vehicles, digging tools, computers, robots, etc. Within the world, there has been a simulated catastrophe. Remnants of cities abound, full of monsters and things that go **_&gt;boom&lt;_** in the night. What intelligent life is left cares nothing about you and only about emeralds. And they are rather daft, to boot.
 
@@ -24,7 +24,7 @@ C.E.O. of CipraTech
 
 Mayor of Ciprania
 
-_P.S. We do not take responsibility for any loss of life or dismemberment that may occur when the red button is pushed. And by pressing the red button, or having it pressed within your vicinity, you agree to stay in the VVW until either loss of life occurs, or the world is thriving once again. We haven't figured out the pause feature yet._
+_P.S. We do not take responsibility for any loss of life or dismemberment that may occur when the red button is pushed. And by pressing the red button, or having it pressed within your vicinity, you agree to stay in the VVW™ until either loss of life occurs, or the world is thriving once again. We haven't figured out the pause feature yet._
 
 ![](http://saphrym.com/images/cipratech/Line.png)
 
