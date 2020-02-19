@@ -1,4 +1,6 @@
+
 #General settings
 [profiles]
-	selectedProfile = "default"
 	selectedCustomJson = ""
+	selectedProfile = "default"
+

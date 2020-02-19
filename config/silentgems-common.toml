@@ -76,7 +76,7 @@
 		#Spawn several lightning bolts that do not cause fire
 		"silentgems:chaos_lightning" = true
 		#Spawn a group of wisps (random element)
-		"silentgems:spawn_wisps" = true
+		"silentgems:spawn_wisps" = false
 
 [debug]
 	#Display text on-screen with various information, such as player/world chaos
@@ -156,4 +156,3 @@
 			weight = 3
 			#Largest possible group size
 			maxGroupSize = 2
-

@@ -1,0 +1,11 @@
+{
+    "name": "Section 1",
+    "icon": "minecraft:writable_book",
+    "category": "section_1",
+    "pages": [
+        {
+            "type": "text",
+            "text": "So you bought a Virtual Voxel World? No. No you didn't."
+        }
+    ]
+}

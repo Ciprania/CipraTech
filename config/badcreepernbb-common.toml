@@ -1,0 +1,13 @@
+
+#Common Settings
+[common]
+	#Determines if debug messages will be shown.
+	ShowDebugMessages = false
+	#If the creeper region protection is active.
+	RegionActive = false
+	#The range around the creeper explosion that is checked for players.
+	#Range: 0 ~ 100
+	Range = 5
+	#If the creeper explosion range check is active. If not, creepers will explode as usual.
+	RangeActive = true
+
