@@ -1,0 +1,43 @@
+{
+    "name": "The Letter",
+    "icon": "minecraft:paper",
+    "category": "prologue",
+    "pages": [
+        {
+            "type": "text",
+            "text": "$()While playing pickup sticks with your cat, an envelope slides under the door nearest to you. No. Not that door. The other door. To the left. Yes. That's the door. When you open the envelope, you find the following letter and a very flat piece of green circuit board with a small red button on it:"
+        },
+        {
+            "type": "text",
+            "text": "$(#007acc)$(l)Dear $(playername),$(br2)We at CipraTech congratulate you on formulating the idea that it was necessary to purchase this CipraTech branded Virtual Voxel World™ (VVW™). Formulating ideas can be tough, and we are proud of you for doing so on your own despite the numerous advertisements you may have seen for this VVW™."
+        },
+        {
+            "type": "text",
+            "text": "$(#007acc)$(l)When you press the red button, you will be transported into the VVW™ with an instruction manual for how to use your new VVW™. You'll also receive a few other virtual bits and bobs. Not Bobs, but bobs. We don't sell Bobs. That would be against the law."
+        },
+        {
+            "type": "text",
+            "text": "$(#007acc)$(l)Within this world, you will be able to collect resources and craft multiple CipraTech patented machines and tools. Some of those include solar generators, teleporters, vehicles, digging tools, computers, robots, etc. Within the world, there has been a simulated catastrophe. Remnants of cities abound, full of monsters and things that go >boom< in the night."
+        },
+        {
+            "type": "text",
+            "text": "$(#007acc)$(l)What intelligent life is left cares nothing about you and only about emeralds. And they are rather daft, to boot. Your purpose is to rebuild this world. Begin with the few items we give you and make the world a thriving and booming society once again. If you manage to do so, we will consider you for one of our intern spots."
+        },
+        {
+            "type": "text",
+            "text": "$(#007acc)$(l)Sincerely,$(br)Carl Munchberg,$(br)C.E.O. of CipraTech,$(br)Mayor of Ciprania"
+        },
+        {
+            "type": "text",
+            "text": "$(#007acc)$(l)P.S. We do not take responsibility for any loss of life or dismemberment that may occur when the red button is pushed. And by pressing the red button, or having it pressed within your vicinity, you agree to stay in the VVW™ until either loss of life occurs, or the world is thriving once again. We haven't figured out the pause feature yet."
+        },
+        {
+            "type": "text",
+            "text": "$()After you finish reading the letter, you decide that the red button is not something you want to push. Who would after reading that postscript!? But, at that exact second the red button starts flashing. Your cat gets on your shoulder and paws at the fascinating blinking red light in your hand. You suddenly appear in a very blocky world with fancy music playing from the sky and a tree in front of you begging you to punch it."
+        },
+        {
+            "type": "text",
+            "text": "$()Don't worry. Your cat is safe back at home still pawing at the circuit board, that is, until the circuit board goes flying under the refrigerator with that candy wrapper from 1998.$(br2)It's at this very moment that you think to yourself, $(o)Wait... when did I get a cat?"
+        }
+    ]
+}

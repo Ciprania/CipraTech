@@ -13,6 +13,6 @@
 	"widgets": false,
 	"langKey": "packmenu.akliz",
 	"action": "OPEN_URL",
-	"data": "https://saph.link/akliz",
-	"anchor": "TOP_RIGHT"
+	"data": "http://saph.link/akliz",
+	"textXOffset": 5
 }
