@@ -48,4 +48,4 @@ To report bugs with the pack or make suggestions for it, [please see the GitHub]
 
 # LOST CITIES WARNING
 
-Lost Cities can cause chunk generation problems and crash the server. We still want to use the mod because it represents a huge part of the theme of this pack. Our workaround is when the crash happens, disable Lost Cities, run the server for a while, and then reenable it. Make a backup oif your world first. If you'd rather not go through that, then disable Lost Cities on the server. Clients can still connect.
+Lost Cities can cause chunk generation problems and crash the server. We still want to use the mod because it represents a huge part of the theme of this pack. Our workaround is when the crash happens, disable Lost Cities, run the server for a while, and then re-enable it. Make a backup of your world first. If you'd rather not go through that, then disable Lost Cities on the server. Clients can still connect.
