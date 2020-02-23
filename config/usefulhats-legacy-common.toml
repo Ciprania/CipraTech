@@ -43,7 +43,7 @@
 		#Range: 0.0 ~ 5.0
 		choppingHatSpeedWithEfficiency5 = 1.5
 		#Whether or not damaging of Chopping Hat should be enabled.
-		choppingHatDamageEnabled = true
+		choppingHatDamageEnabled = false
 		#Chopping Hat speed increase with Efficiency IV.
 		#Range: 0.0 ~ 4.0
 		choppingHatSpeedWithEfficiency4 = 1.0
@@ -62,7 +62,7 @@
 		#Range: 0.0 ~ 3.0
 		miningHatSpeedWithEfficiency3 = 0.8
 		#Whether or not damaging of Mining Hat should be enabled.
-		miningHatDamageEnabled = true
+		miningHatDamageEnabled = false
 		#Whether or not Night Vision effect of Mining Hat should be enabled in dark areas.
 		miningHatNightVisionEnabled = true
 		#Mining Hat speed increase with Efficiency II.
@@ -89,7 +89,7 @@
 		#Range: 0.0 ~ 5.0
 		strawHatSpeedWithEfficiency5 = 1.5
 		#Whether or not damaging of Straw Hat should be enabled.
-		strawHatDamageEnabled = true
+		strawHatDamageEnabled = false
 		#Straw Hat speed increase without Efficiency enchantment.
 		#Range: 0.0 ~ 1.0
 		strawHatSpeedWithEfficiency0 = 0.2
@@ -111,28 +111,27 @@
 		#Range: 10 ~ 120
 		aquanautHelmetEffectTimeWithRespiration0 = 60
 		#Whether or not damaging of Aquanaut Helmet should be enabled.
-		aquanautHelmetDamageEnabled = true
+		aquanautHelmetDamageEnabled = false
 
 	["Balance Options"."Postman Hat"]
 		#Whether or not Hunger effect of Postman Hat should be enabled while running.
-		postmanHatHungerEnabled = true
+		postmanHatHungerEnabled = false
 		#Whether or not damaging of Postman Hat should be enabled.
-		postmanHatDamageEnabled = true
+		postmanHatDamageEnabled = false
 
 	["Balance Options"."Stocking Cap"]
 		#Whether or not damaging of Stocking Cap should be enabled.
-		stockingCapDamageEnabled = true
+		stockingCapDamageEnabled = false
 
 	["Balance Options"."Wing Helmet"]
 		#Whether or not Levitation effect of Wing Helmet should be enabled.
 		wingHelmetLevitationEnabled = true
 		#Whether or not damaging of Wing Helmet should be enabled.
-		wingHelmetDamageEnabled = true
+		wingHelmetDamageEnabled = false
 
 	["Balance Options".Halo]
 		#Detecting range of Halo for damage calculation. (in blocks)
 		#Range: 1 ~ 100
 		haloDetectingRange = 16
 		#Whether or not damaging of Halo should be enabled.
-		haloDamageEnabled = true
-
+		haloDamageEnabled = false

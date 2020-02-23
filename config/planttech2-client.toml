@@ -4,3 +4,4 @@
 	[planttech2.config]
 		#Defines if the colorblind version of the guis are shown
 		colorblind_guis = true
+

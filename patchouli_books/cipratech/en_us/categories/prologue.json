@@ -1,5 +1,5 @@
 {
 	"name": "Prologue",
 	"description": "Hi $(playername)! Remember that letter we sent you? No? Well, here's a reminder of your promise.",
-	"icon": "minecraft:paper"
+	"icon": "minecraft:book"
 }
