@@ -135,3 +135,4 @@
 		haloDetectingRange = 16
 		#Whether or not damaging of Halo should be enabled.
 		haloDamageEnabled = false
+
