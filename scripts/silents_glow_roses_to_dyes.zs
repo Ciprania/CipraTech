@@ -1,0 +1,98 @@
+//Glowroses to Dyes from TheDarkPreacher
+
+craftingTable.addShapeless("r1glowrose", <item:minecraft:red_dye>,
+    [<item:silentgems:ruby_glowrose>], null);
+craftingTable.addShapeless("r2glowrose", <item:minecraft:red_dye>,
+    [<item:silentgems:garnet_glowrose>], null);
+craftingTable.addShapeless("o1glowrose", <item:minecraft:orange_dye>,
+    [<item:silentgems:topaz_glowrose>], null);
+craftingTable.addShapeless("o2glowrose", <item:minecraft:orange_dye>,
+    [<item:silentgems:amber_glowrose>], null);
+craftingTable.addShapeless("y1glowrose", <item:minecraft:yellow_dye>,
+    [<item:silentgems:heliodor_glowrose>], null);
+craftingTable.addShapeless("lg1glowrose", <item:minecraft:lime_dye>,
+    [<item:silentgems:peridot_glowrose>], null);
+craftingTable.addShapeless("g1glowrose", <item:minecraft:green_dye>,
+    [<item:silentgems:green_sapphire_glowrose>], null);
+craftingTable.addShapeless("c1glowrose", <item:minecraft:cyan_dye>,
+    [<item:silentgems:phosphophyllite_glowrose>], null);
+craftingTable.addShapeless("lb1glowrose", <item:minecraft:light_blue_dye>,
+    [<item:silentgems:aquamarine_glowrose>], null);
+craftingTable.addShapeless("u1glowrose", <item:minecraft:blue_dye>,
+    [<item:silentgems:sapphire_glowrose>], null);
+craftingTable.addShapeless("pu1glowrose", <item:minecraft:purple_dye>,
+    [<item:silentgems:tanzanite_glowrose>], null);
+craftingTable.addShapeless("pu2glowrose", <item:minecraft:purple_dye>,
+    [<item:silentgems:amethyst_glowrose>], null);
+craftingTable.addShapeless("m1glowrose", <item:minecraft:magenta_dye>,
+    [<item:silentgems:agate_glowrose>], null);
+craftingTable.addShapeless("p1glowrose", <item:minecraft:pink_dye>,
+    [<item:silentgems:morganite_glowrose>], null);
+craftingTable.addShapeless("bl1glowrose", <item:minecraft:black_dye>,
+    [<item:silentgems:onyx_glowrose>], null);
+craftingTable.addShapeless("w1glowrose", <item:minecraft:white_dye>,
+    [<item:silentgems:opal_glowrose>], null);
+craftingTable.addShapeless("r3glowrose", <item:minecraft:red_dye>,
+    [<item:silentgems:carnelian_glowrose>], null);
+craftingTable.addShapeless("o3glowrose", <item:minecraft:orange_dye>,
+    [<item:silentgems:spinel_glowrose>], null);
+craftingTable.addShapeless("o4glowrose", <item:minecraft:orange_dye>,
+    [<item:silentgems:citrine_glowrose>], null);
+craftingTable.addShapeless("y2glowrose", <item:minecraft:yellow_dye>,
+    [<item:silentgems:jasper_glowrose>], null);
+craftingTable.addShapeless("y3glowrose", <item:minecraft:yellow_dye>,
+    [<item:silentgems:zircon_glowrose>], null);
+craftingTable.addShapeless("lg2glowrose", <item:minecraft:lime_dye>,
+    [<item:silentgems:moldavite_glowrose>], null);
+craftingTable.addShapeless("g2glowrose", <item:minecraft:green_dye>,
+    [<item:silentgems:malachite_glowrose>], null);
+craftingTable.addShapeless("c2glowrose", <item:minecraft:cyan_dye>,
+    [<item:silentgems:turquoise_glowrose>], null);
+craftingTable.addShapeless("lb2glowrose", <item:minecraft:light_blue_dye>,
+    [<item:silentgems:euclase_glowrose>], null);
+craftingTable.addShapeless("u2glowrose", <item:minecraft:blue_dye>,
+    [<item:silentgems:benitoite_glowrose>], null);
+craftingTable.addShapeless("pu3glowrose", <item:minecraft:purple_dye>,
+    [<item:silentgems:iolite_glowrose>], null);
+craftingTable.addShapeless("m2glowrose", <item:minecraft:magenta_dye>,
+    [<item:silentgems:alexandrite_glowrose>], null);
+craftingTable.addShapeless("m3glowrose", <item:minecraft:magenta_dye>,
+    [<item:silentgems:lepidolite_glowrose>], null);
+craftingTable.addShapeless("pi2glowrose", <item:minecraft:pink_dye>,
+    [<item:silentgems:ametrine_glowrose>], null);
+craftingTable.addShapeless("bl2glowrose", <item:minecraft:black_dye>,
+    [<item:silentgems:black_diamond_glowrose>], null);
+craftingTable.addShapeless("gr1glowrose", <item:minecraft:light_gray_dye>,
+    [<item:silentgems:moonstone_glowrose>], null);
+craftingTable.addShapeless("r4glowrose", <item:minecraft:red_dye>,
+    [<item:silentgems:pyrope_glowrose>], null);
+craftingTable.addShapeless("o5glowrose", <item:minecraft:orange_dye>,
+    [<item:silentgems:coral_glowrose>], null);
+craftingTable.addShapeless("o6glowrose", <item:minecraft:orange_dye>,
+    [<item:silentgems:sunstone_glowrose>], null);
+craftingTable.addShapeless("y4glowrose", <item:minecraft:yellow_dye>,
+    [<item:silentgems:cats_eye_glowrose>], null);
+craftingTable.addShapeless("y5glowrose", <item:minecraft:yellow_dye>,
+    [<item:silentgems:yellow_diamond_glowrose>], null);
+craftingTable.addShapeless("lg3glowrose", <item:minecraft:lime_dye>,
+    [<item:silentgems:jade_glowrose>], null);
+craftingTable.addShapeless("g3glowrose", <item:minecraft:green_dye>,
+    [<item:silentgems:chrysoprase_glowrose>], null);
+craftingTable.addShapeless("c3glowrose", <item:minecraft:cyan_dye>,
+    [<item:silentgems:apatite_glowrose>], null);
+craftingTable.addShapeless("lb3glowrose", <item:minecraft:light_blue_dye>,
+    [<item:silentgems:fluorite_glowrose>], null);
+craftingTable.addShapeless("u3glowrose", <item:minecraft:blue_dye>,
+    [<item:silentgems:kyanite_glowrose>], null);
+craftingTable.addShapeless("pu4glowrose", <item:minecraft:purple_dye>,
+    [<item:silentgems:sodalite_glowrose>], null);
+craftingTable.addShapeless("m4glowrose", <item:minecraft:magenta_dye>,
+    [<item:silentgems:ammolite_glowrose>], null);
+craftingTable.addShapeless("m5glowrose", <item:minecraft:magenta_dye>,
+    [<item:silentgems:kunzite_glowrose>], null);
+craftingTable.addShapeless("pi3glowrose", <item:minecraft:pink_dye>,
+    [<item:silentgems:rose_quartz_glowrose>], null);
+craftingTable.addShapeless("gr2glowrose", <item:minecraft:gray_dye>,
+    [<item:silentgems:tektite_glowrose>], null);
+craftingTable.addShapeless("w2glowrose", <item:minecraft:white_dye>,
+    [<item:silentgems:pearl_glowrose>], null);
