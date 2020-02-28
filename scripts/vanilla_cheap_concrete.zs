@@ -21,11 +21,11 @@ function modifyConcreteRecipes(color as string) as void {
 		 [dye, <item:minecraft:sand>, <item:minecraft:sand>, <item:minecraft:sand>, <item:minecraft:sand>, <item:minecraft:gravel>, <item:minecraft:gravel>,<item:minecraft:gravel>,<item:minecraft:gravel>]
 	 );
 
-	 craftingTable.addShapeless(
-	 	color + "_concrete_clay_block",
-	 	block * 32,
-	 	[powder * 4, powder * 4, powder * 4, powder * 4,powder * 4, powder * 4, powder * 4, powder * 4, <item:minecraft:clay>]
-	 );
+//	 craftingTable.addShapeless(
+//	 	color + "_concrete_clay_block",
+//	 	block * 32,
+//	 	[powder * 4, powder * 4, powder * 4, powder * 4,powder * 4, powder * 4, powder * 4, powder * 4, <item:minecraft:clay>]
+//	 );
 
 	 craftingTable.addShapeless(
 	 	color + "_concrete_clay_ball",

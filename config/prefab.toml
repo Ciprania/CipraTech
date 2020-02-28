@@ -41,6 +41,8 @@
 		"Chicken Coop" = true
 		#Determines if the recipe(s) associated with the Jail are enabled.
 		Jail = true
+		#Determines if the recipe(s) associated with the Windmill are enabled.
+		Windmill = true
 		#Determines if the recipe(s) associated with the Mineshaft Entrance are enabled.
 		"Mineshaft Entrance" = true
 		#Determines if the recipe(s) associated with the Watch Tower are enabled.
@@ -49,6 +51,8 @@
 		"Fish Farm" = true
 		#Determines if the recipe(s) associated with the Pile of Bricks are enabled.
 		"Pile of Bricks" = true
+		#Determines if the recipe(s) associated with the Ton of Timber are enabled.
+		"Ton of Timber" = true
 		#Determines if the recipe(s) associated with the Produce Farm are enabled.
 		"Produce Farm" = true
 		#Determines if the recipe(s) associated with the Green House are enabled.
@@ -63,6 +67,8 @@
 		"Granite Slabs" = true
 		#Determines if the recipe(s) associated with the Starting House are enabled.
 		"Starting House" = true
+		#Determines if the recipe(s) associated with the Town Hall are enabled.
+		"Town Hall" = true
 		#Determines if the recipe(s) associated with the Compressed Obsidian are enabled.
 		"Compressed Obsidian" = true
 		#Determines if the recipe(s) associated with the Tree Farm are enabled.
@@ -123,6 +129,8 @@
 		"Nether Gate" = true
 		#Determines if the recipe(s) associated with the Instant Bridge are enabled.
 		"Instant Bridge" = true
+		#Determines if the recipe(s) associated with the Heap of Timber are enabled.
+		"Heap of Timber" = true
 		#Determines if the recipe(s) associated with the Horse Stable are enabled.
 		"Horse Stable" = true
 		#Determines if the recipe(s) associated with the Advanced Warehouse are enabled.
