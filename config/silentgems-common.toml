@@ -80,7 +80,7 @@
 
 [chaos]
 	#The most chaos the any source (player or world) can accumulate
-	maxValue = 10000000
+	maxValue = 1
 
 	#Allows individual events to be disabled.
 	#Note that disabling events will likely increase the frequency of other events.
@@ -90,13 +90,13 @@
 		#Spawn a regular lightning bolt (can cause fire)
 		"silentgems:lightning" = false
 		#Changes the weather to a thunderstorm
-		"silentgems:thunderstorm" = true
+		"silentgems:thunderstorm" = false
 		#Create a patch of corrupted blocks
-		"silentgems:corrupt_blocks" = true
+		"silentgems:corrupt_blocks" = false
 		#Applies negative potion effects to the player
-		"silentgems:chaos_sickness" = true
+		"silentgems:chaos_sickness" = false
 		#Spawn several lightning bolts that do not cause fire
-		"silentgems:chaos_lightning" = true
+		"silentgems:chaos_lightning" = false
 		#Spawn a group of wisps (random element)
 		"silentgems:spawn_wisps" = false
 

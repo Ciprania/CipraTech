@@ -1,0 +1,40 @@
+
+#Enabled Features
+[features]
+	enableDexterity = true
+	enableHeat = false
+	enableStrike = true
+	enableAirWalker = true
+	enableVoid = true
+	enableFarReach = true
+	enableDeflection = true
+	enableGluttony = true
+	enableSmite = true
+	enableFastBreak = true
+	enableFirePraise = true
+	enableGravity = true
+	enableBlastResist = true
+	enableSwiftCharge = true
+
+#Enchant Configs
+[enchants]
+
+	#Dexterity
+	[enchants.dexterity]
+		dexterityTags = ["forge:sandstone", "forge:rods/wooden", "minecraft:fences", "forge:dyes", "minecraft:planks", "minecraft:arrows", "minecraft:signs", "minecraft:small_flowers", "minecraft:buttons", "minecraft:wooden_pressure_plates", "minecraft:rails", "forge:chests", "forge:leather"]
+		dexterityItems = ["minecraft:fire_charge", "minecraft:sugar", "minecraft:firework_star", "minecraft:bread"]
+
+	#Gluttony
+	[enchants.gluttony]
+		enableRabbitStew = true
+		enableCookie = true
+
+	#Heat
+	[enchants.heat]
+		#Range: > 1
+		additionalTickSpeed = 3
+		tileBlacklist = ["minecraft:hopper", "minecraft:piston", "minecraft:beacon", "minecraft:conduit", "minecraft:bell", "minecraft:beehive", "minecraft:daylight_detector", "minecraft:end_gateway", "enchantability:air"]
+		treatBlacklistAsWhitelist = false
+		#Range: 1 ~ 256
+		"heatRange - radius" = 32
+

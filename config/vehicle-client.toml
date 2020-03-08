@@ -9,13 +9,19 @@
 
 	#Configuration options for debugging vehicles
 	[client.debug]
+		#If true, renders lines to help visualise steering direction and target position.
+		renderSteeringDebug = false
 		#If true, renders an outline of all the elements on a vehicle's model. Useful for debugging interactions.
 		renderOutlines = false
 		#If true, the raytracer will be reloaded each tick.
 		reloadRaytracerEachTick = false
+		#If true, the vehicle properties will be reloaded each tick.
+		reloadVehiclePropertiesEachTick = false
 
 	#Configuration for display related options
 	[client.display]
+		#If true, automatically rotates the camera when turning in a vehicle
+		rotateCameraWithVehicle = true
 		#If true, automatically switches to third person when mounting vehicles
 		autoPerspective = true
 		#If true, displays a speedometer on the HUD when driving a vehicle
